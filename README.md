@@ -39,8 +39,8 @@ No degree. Just code, curiosity, and commitment.
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 📡 [FLUGI WebSocket Server](https://github.com/FLUGI69/FLUGI_websocket_server)
 A production-ready **real-time WebSocket server** built in Python.  
@@ -48,8 +48,8 @@ Designed for high-throughput data streaming between clients and backend services
 
 `Python` `WebSocket` `Async` `Real-time`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 📡 [FLUGI Data Fetcher](https://github.com/FLUGI69/FLUGI_data_fetcher)
 A lightweight but powerful **market data fetcher** with configurable period/date handling.  
@@ -57,10 +57,10 @@ Acts as the data ingestion layer for trading and analysis pipelines.
 
 `Python` `Data Streaming` `Finance API`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🖥️ [FLUGI Desktop App](https://github.com/FLUGI69/FLUGI_desktop_app)
 A fully-featured **desktop application** with a custom GUI, built and packaged with PyInstaller.  
@@ -68,8 +68,8 @@ Handles complex workflows with a clean, modular architecture.
 
 `Python` `GUI` `PyInstaller` `Desktop`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 📊 [FLUGI Data Analysis](https://github.com/FLUGI69/FLUGI_data_analysis)
 Tools and scripts for **financial & market data analysis**.  
@@ -77,8 +77,8 @@ Foundation for building smarter data-driven decisions.
 
 `Python` `Data Analysis` `Finance`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
