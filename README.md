@@ -104,7 +104,7 @@ Foundation for building smarter data-driven decisions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FLUGI69&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FLUGI69&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLUGI69&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
 
 </div>
