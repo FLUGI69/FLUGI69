@@ -67,20 +67,6 @@ Foundation for building smarter data-driven decisions.
     </td>
     <td width="50%" valign="top">
 
-### 🤖 [Trading Algo](https://github.com/FLUGI69/Trading-Algo) *(AI expansion planned)*
-An **algorithmic trading engine** implementing Smart Money Concepts (SMC):
-- Market Structure Analysis (`marketstrukture.py` — 77k+ lines of logic)
-- Break of Structure (BOS) detection
-- Order Block identification
-- Stop Hunt recognition
-- Inefficiency Gap detection
-
-> 🧠 **Next phase:** AI/ML model training for predictive signal generation and autonomous decision-making.
-
-`Python` `Algo Trading` `SMC` `AI (planned)`
-
----
-
 ### 📡 [FLUGI Data Fetcher](https://github.com/FLUGI69/FLUGI_data_fetcher)
 A lightweight but powerful **market data fetcher** with configurable period/date handling.  
 Acts as the data ingestion layer for trading and analysis pipelines.
@@ -99,6 +85,7 @@ Acts as the data ingestion layer for trading and analysis pipelines.
 
 | Project | Description | Stack |
 |---|---|---|
+| **Trading Algo** *(AI expansion planned)* | Algorithmic trading engine implementing Smart Money Concepts (SMC) — Market Structure Analysis, BOS detection, Order Block & Stop Hunt identification | `Python` `Algo Trading` `SMC` `AI (planned)` |
 | **Cooltech App** | Full business management application — built from day one, still actively maintained | `Python` `GUI` `WebSocket` |
 | **Cooltech WebSocket** | Real-time data layer for the Cooltech ecosystem | `Python` `WebSocket` `Async` |
 | **Cooltech GUI (Silver Kft)** | Custom GUI module for a client-specific workflow | `Python` `GUI` |
@@ -120,7 +107,7 @@ Acts as the data ingestion layer for trading and analysis pipelines.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FLUGI69&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=FLUGI69&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
 
 </div>
 
