@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-I'm a **self-taught Python developer** with nearly **3 years of hands-on experience** building complex, production-level systems from scratch — solo.  
+I'm a **self-taught Python developer** with nearly **3 years of hands-on experience** building complex, production-level systems from scratch - solo.  
 I specialize in **real-time data pipelines**, **desktop applications**, **WebSocket architectures**, and **algorithmic trading systems**.
 
 No degree. Just code, curiosity, and commitment.
