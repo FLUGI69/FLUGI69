@@ -99,8 +99,8 @@ Foundation for building smarter data-driven decisions.
 
 | Project | Description | Stack |
 |---|---|---|
-| **Trading Algo** *(AI expansion planned)* | Algorithmic trading engine implementing Smart Money Concepts (SMC) — Market Structure Analysis, BOS detection, Order Block & Stop Hunt identification | `Python` `Algo Trading` `SMC` `AI (planned)` |
-| **Cooltech App** | Full business management application — built from day one, still actively maintained | `Python` `GUI` `WebSocket` |
+| **Trading Algo** *(AI expansion planned)* | Algorithmic trading engine implementing Smart Money Concepts (SMC) - Market Structure Analysis, BOS detection, Order Block & Stop Hunt identification | `Python` `Algo Trading` `SMC` `AI (planned)` |
+| **Cooltech App** | Full business management application - built from day one, still actively maintained | `Python` `GUI` `WebSocket` |
 | **Cooltech WebSocket** | Real-time data layer for the Cooltech ecosystem | `Python` `WebSocket` `Async` |
 | **SMC Traders Platform** | Web-based platform for Smart Money Concept traders | `Python` `CSS` `HTML` `Web` |
 | **FastWeb** | Internal fast web framework / tooling | `Python` |
@@ -128,9 +128,9 @@ Foundation for building smarter data-driven decisions.
 
 ## 🧠 Currently Exploring
 
-- 🤖 **AI/ML for trading** — training models on market structure data for signal prediction
-- ⚡ **High-performance async pipelines** — pushing Python's async capabilities further
-- 🏗️ **System architecture** — designing scalable, maintainable complex systems
+- 🤖 **AI/ML for trading** - training models on market structure data for signal prediction
+- ⚡ **High-performance async pipelines** - pushing Python's async capabilities further
+- 🏗️ **System architecture** - designing scalable, maintainable complex systems
 
 ---
 
@@ -140,7 +140,7 @@ Foundation for building smarter data-driven decisions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-FLUGI69-181717?style=for-the-badge&logo=github)](https://github.com/FLUGI69)
 
-> *"I build complex systems alone — imagine what I can do with a team."*
+> *"I build complex systems alone - imagine what I can do with a team."*
 
 </div>
 
