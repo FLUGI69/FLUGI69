@@ -104,8 +104,8 @@ Foundation for building smarter data-driven decisions.
 
 <div align="center">
 
-[![FLUGI69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLUGI69&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLUGI69&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![FLUGI69's GitHub Stats](https://flugi-readme-stats.vercel.app/api?username=FLUGI69&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github)](https://github.com/FLUGI69/github-readme-stats)
+[![Top Languages](https://flugi-readme-stats.vercel.app/api/top-langs/?username=FLUGI69&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8)](https://github.com/FLUGI69/github-readme-stats)
 
 </div>
 
