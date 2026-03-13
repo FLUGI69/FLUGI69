@@ -100,7 +100,6 @@ Foundation for building smarter data-driven decisions.
 | **Trading Algo** *(AI expansion planned)* | Algorithmic trading engine implementing Smart Money Concepts (SMC) — Market Structure Analysis, BOS detection, Order Block & Stop Hunt identification | `Python` `Algo Trading` `SMC` `AI (planned)` |
 | **Cooltech App** | Full business management application — built from day one, still actively maintained | `Python` `GUI` `WebSocket` |
 | **Cooltech WebSocket** | Real-time data layer for the Cooltech ecosystem | `Python` `WebSocket` `Async` |
-| **Cooltech GUI (Silver Kft)** | Custom GUI module for a client-specific workflow | `Python` `GUI` |
 | **SMC Traders Platform** | Web-based platform for Smart Money Concept traders | `Python` `CSS` `HTML` `Web` |
 | **FastWeb** | Internal fast web framework / tooling | `Python` |
 | **Max Media** | Media-related web project | `HTML` `CSS` |
