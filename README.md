@@ -41,6 +41,7 @@ No degree. Just code, curiosity, and commitment.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -106,6 +107,7 @@ Foundation for building smarter data-driven decisions.
 | **FastWeb** | Internal fast web framework / tooling | `Python` |
 | **Max Media** | Media-related web project | `HTML` `CSS` |
 | **Smart Money Community** | Community platform for traders | `Python` |
+| **ProjectBase** | Batteries-included Python utility framework - logging, database management (MySQL/SQLite), Redis, SSH tunneling, thread-safe collections, and more | `Python` `SQLAlchemy` `Redis` `Pydantic` `Paramiko` `Socket.IO` |
 
 ---
 
