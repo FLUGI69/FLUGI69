@@ -95,10 +95,9 @@ Foundation for building smarter data-driven decisions.
 <td width="50%" valign="top">
 
 ### 🧠 [FLUGI Maze Game](https://github.com/FLUGI69/FLUGI_maze_game)
-A **CNN-based supervised learning** project where a neural network learns to navigate mazes.  
-Trained using PyTorch with a custom dataset generated from maze environments.
+Hardcore maze game with a **two-stage AI**: a **CNN** pre-trained via supervised learning to classify maze survivability, then a **DQN** (Deep Q-Network) RL agent that navigates mazes and learns to skip unwinnable ones instead of dying.
 
-`Python` `PyTorch` `CNN` `Supervised Learning` `AI/ML`
+`Python` `PyTorch` `CNN` `DQN` `Reinforcement Learning` `AI/ML`
 
 </td>
 <td width="50%" valign="top">
@@ -145,7 +144,7 @@ Trained using PyTorch with a custom dataset generated from maze environments.
 ## 🧠 Currently Exploring
 
 - 🤖 **AI/ML for trading** - training models on market structure data for signal prediction
-- 🧩 **CNN & Deep Learning** - building supervised learning models with PyTorch
+- 🧩 **CNN + DQN** - supervised pre-training & reinforcement learning with PyTorch
 - ⚡ **High-performance async pipelines** - pushing Python's async capabilities further
 - 🏗️ **System architecture** - designing scalable, maintainable complex systems
 
