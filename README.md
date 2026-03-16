@@ -24,6 +24,7 @@ No degree. Just code, curiosity, and commitment.
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -90,6 +91,19 @@ Foundation for building smarter data-driven decisions.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [FLUGI Maze Game](https://github.com/FLUGI69/FLUGI_maze_game)
+A **CNN-based supervised learning** project where a neural network learns to navigate mazes.  
+Trained using PyTorch with a custom dataset generated from maze environments.
+
+`Python` `PyTorch` `CNN` `Supervised Learning` `AI/ML`
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
@@ -131,6 +145,7 @@ Foundation for building smarter data-driven decisions.
 ## 🧠 Currently Exploring
 
 - 🤖 **AI/ML for trading** - training models on market structure data for signal prediction
+- 🧩 **CNN & Deep Learning** - building supervised learning models with PyTorch
 - ⚡ **High-performance async pipelines** - pushing Python's async capabilities further
 - 🏗️ **System architecture** - designing scalable, maintainable complex systems
 
