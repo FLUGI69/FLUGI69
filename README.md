@@ -121,7 +121,7 @@ Hardcore maze game with a **two-stage AI**: a **CNN** pre-trained via supervised
 | **Max Media** | Media-related web project | `HTML` `CSS` |
 | **Smart Money Community** | Community platform for traders | `Python` |
 | **ProjectBase** | Batteries-included Python utility framework - logging, database management (MySQL/SQLite), Redis, SSH tunneling, thread-safe collections, and more | `Python` `SQLAlchemy` `Redis` `Pydantic` `Paramiko` `Socket.IO` |
-
+| **PrimePipe** | A professional service website for a self-employed contractor offering specialized pipeline and plumbing services to residential and commercial clients. | `HTML` `CSS` `Web` |
 ---
 
 ## 📈 GitHub Stats
