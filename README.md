@@ -156,7 +156,7 @@ Hardcore maze game with a **two-stage AI**: a **CNN** pre-trained via supervised
 
 [![GitHub](https://img.shields.io/badge/GitHub-FLUGI69-181717?style=for-the-badge&logo=github)](https://github.com/FLUGI69)
 
-> *"I build complex systems alone - imagine what I can do with a team."*
+ *"I build complex systems alone - imagine what I can do with a team."*
 
 </div>
 
