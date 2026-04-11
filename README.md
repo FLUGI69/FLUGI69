@@ -103,6 +103,13 @@ Hardcore maze game with a **two-stage AI**: a **CNN** pre-trained via supervised
 
 </td>
 <td width="50%" valign="top">
+
+### 🐧 [Linux Server Setup](https://github.com/FLUGI69/Linux)
+Production-grade **Linux server configuration reference** - NGINX, HAProxy, SSL, and security hardening commands.  
+A practical deployment guide built from real-world server setup experience.
+
+`Linux` `NGINX` `HAProxy` `SSL` `DevOps` `Deploy`
+
 </td>
 </tr>
 </table>
