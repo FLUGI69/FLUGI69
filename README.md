@@ -19,8 +19,10 @@ No degree. Just code, curiosity, and commitment.
 
 ---
 
-### 💼 Current Role
 <div align="center">
+
+### 💼 Current Role
+
 Founding Engineer @ FUNDEXT
 
 Leading the technical development of the product as Founding Engineer, driving the engineering side of FUNDEXT - architecture, implementation, and everything that ships.
