@@ -19,17 +19,19 @@ No degree. Just code, curiosity, and commitment.
 
 ---
 
+## 💼 Current Role
+
 <div align="center">
 
-### 💼 Current Role
+### Founding Engineer @ [FUNDEXT](https://www.fundext.ai)
 
-Founding Engineer @ FUNDEXT
+Leading the technical development of the product as **Founding Engineer**, driving the engineering side of FUNDEXT - architecture, implementation, and everything that ships.
 
-Leading the technical development of the product as Founding Engineer, driving the engineering side of FUNDEXT - architecture, implementation, and everything that ships.
-
-FUNDEXT
+[![FUNDEXT](https://img.shields.io/badge/FUNDEXT-Founding%20Engineer-a78bfa?style=for-the-badge)](https://www.fundext.ai)
 
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
