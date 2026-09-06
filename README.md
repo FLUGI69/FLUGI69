@@ -19,7 +19,7 @@ No degree. Just code, curiosity, and commitment.
 
 ---
 
-💼 Current Role
+### 💼 Current Role
 <div align="center">
 Founding Engineer @ FUNDEXT
 
