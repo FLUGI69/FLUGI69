@@ -40,9 +40,9 @@ Leading the technical development of the product as **Founding Engineer**, drivi
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
+
+## 🛠️ Tech Stack
 
 **Languages**
 
