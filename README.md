@@ -11,7 +11,7 @@
 ### 👋 About Me
 
 I'm a **self-taught Python developer** with nearly **3 years of hands-on experience** building complex, production-level systems from scratch - solo.  
-I specialize in **real-time data pipelines**, **desktop applications**, **WebSocket architectures**, and **algorithmic trading systems**.
+I specialize in **real-time data pipelines**, **desktop applications**, **WebSocket architectures**, **algorithmic trading systems** and **order-flow tooling in C#** for Quantower.
 
 </div>
 
@@ -29,34 +29,71 @@ Leading the technical development of the product as **Founding Engineer**, drivi
 
 </div>
 
+**What I built at FUNDEXT, end to end:**
+
+- 📈 **Real-time charting** on TradingView Advanced Charts with custom studies, live order-flow layers and a demo-account trade panel (bid / ask fills, OCO, break-even, trailing stops, futures netting)
+- 📓 **Trade journal** with automatic P&L, R-multiples, equity curves, period statistics and before / after chart images
+- 🤖 **AI coach and market reads** on top of the journal and the market data
+- 🗓️ **Economic calendar** built from primary sources (statistical offices and central banks)
+- 💳 **Subscriptions and billing** with Stripe, plus a Discord bot for the community
+- ⚙️ **Infrastructure**: async web framework, WebSocket hub, Redis caching and locks, PostgreSQL, Linux deployment behind HAProxy with zero-touch updates
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend and data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Frontend**
+
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView%20Charts-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+![amCharts](https://img.shields.io/badge/amCharts-2C7BE5?style=for-the-badge)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+**Trading platforms**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Quantower](https://img.shields.io/badge/Quantower-1E2A3A?style=for-the-badge)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Infrastructure and payments**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
@@ -134,6 +171,8 @@ A practical deployment guide built from real-world server setup experience.
 
 | Project | Description | Stack |
 |---|---|---|
+| **FUNDEXT** [fundext.ai](https://fundext.ai) | Trading analytics and coaching platform: real-time charts with a demo-account trade panel, trade journal, AI coach, economic calendar, subscriptions | `Python` `PostgreSQL` `Redis` `WebSocket` `TradingView` `Stripe` |
+| **Orderflow Indicators** | Order-flow and trading indicators for Quantower: volume profiles, session levels and a trade panel with OCO, break-even and trailing stops | `C#` `.NET` `Quantower` |
 | **TradingAlgo** *(AI expansion planned)* | Algorithmic trading engine implementing Smart Money Concepts (SMC) - Market Structure Analysis, BOS detection, Order Block & Stop Hunt identification | `Python` `Algo Trading` `SMC` `AI (planned)` |
 | **Cooltech App** | Full business management application - built from day one, still actively maintained | `Python` `GUI` `WebSocket` |
 | **Cooltech WebSocket** | Real-time data layer for the Cooltech ecosystem | `Python` `WebSocket` `Async` |
@@ -142,7 +181,8 @@ A practical deployment guide built from real-world server setup experience.
 | **Max Media** | Media-related web project | `HTML` `CSS` |
 | **Smart Money Community** | Community platform for traders | `Python` |
 | **ProjectBase** | Batteries-included Python utility framework - logging, database management (MySQL/SQLite), Redis, SSH tunneling, thread-safe collections, and more | `Python` `SQLAlchemy` `Redis` `Pydantic` `Paramiko` `Socket.IO` |
-| **PrimePipe** https://primepipe.hu/ | A professional service website for a self-employed contractor offering specialized pipeline and plumbing services to residential and commercial clients. | `HTML` `CSS` `Web` |
+| **PrimePipe** [primepipe.hu](https://primepipe.hu/) | A professional service website for a self-employed contractor offering specialized pipeline and plumbing services to residential and commercial clients. | `HTML` `CSS` `Web` |
+
 ---
 
 ## 📈 GitHub Stats
@@ -165,6 +205,7 @@ A practical deployment guide built from real-world server setup experience.
 ## 🧠 Currently Exploring
 
 - 🤖 **AI/ML for trading** - training models on market structure data for signal prediction
+- 📊 **Order-flow analytics** - volume profile and trade panel tooling in C# for Quantower
 - 🧩 **CNN + DQN** - supervised pre-training & reinforcement learning with PyTorch
 - ⚡ **High-performance async pipelines** - pushing Python's async capabilities further
 - 🏗️ **System architecture** - designing scalable, maintainable complex systems
